@@ -174,6 +174,6 @@ Created a professional `README.md` for the project. The documentation includes a
 ## ✅ Day 14:
 Refactored the entire backend into a professional, service-oriented architecture. Separated logic for STT, LLM, and TTS into their own modules, added Pydantic schemas for data validation, and implemented a proper logging system. Successfully integrated the Murf AI API for text-to-speech.
 
-🔗 LinkedIn Post: [Day 14 LinkedIn Post]()
+🔗 LinkedIn Post: [Day 14 LinkedIn Post](https://www.linkedin.com/posts/parth-d-720584256_30daysofvoiceagents-30daysofaichallenge-softwarearchitecture-activity-7362067619572596737-GCF6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD8WwwgB5_T7WEyTmnyEyLnhNMhBXwDVZkM)
 
 </details>
