@@ -12,7 +12,6 @@
 
 <div align="center">
 
-*Replace this image with a link to your new GIF!*
 ![Aether Voice Demo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHd1bmJldG1pMHUwcWtpNWJxdmRld3R4eGVjZ3JhbmJnM2VwaWVvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PxSFAnuubLkSA/giphy.gif)
 
 </div>
